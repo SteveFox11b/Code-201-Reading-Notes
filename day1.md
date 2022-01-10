@@ -3,6 +3,8 @@
 
 ### Chapter 1 Structure  (pgs.12-39)
 
+Html pages are text documents
+-
 
 
 ### Chapter 8 Extra Mark up  (pgs.176-199)
