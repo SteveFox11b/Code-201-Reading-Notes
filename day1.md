@@ -28,11 +28,11 @@
   
   The <div> and <span> elements allow you to group block-level and inline elemts together.
   
-  <ifframes> cut windows into your web pages through which other pages can be displayed.
+  ifframes cut windows into your web pages through which other pages can be displayed.
     
-   The <meta> tage allows you to supply all kinds of information about your web page.
+  The <meta> tage allows you to supply all kinds of information about your web page.
     
-   Escape characters are used to inlude special characters in our pages such as <,>, and coprright mark.
+  Escape characters are used to inlude special characters in our pages such as <,>, and coprright mark.
       
    
     
