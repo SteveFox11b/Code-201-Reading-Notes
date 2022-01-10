@@ -17,7 +17,6 @@
   
   To learn HTML you need to know what tags are availible for you to use, what they do, and where they can go.
   
-  
 
 ### Chapter 8 Extra Mark up  (pgs.176-199)
 
@@ -34,9 +33,10 @@
    The <meta> tage allows you to supply all kinds of information about your web page.
     
    Escape characters are used to inlude special characters in our pages such as <,>, and coprright mark.
+      
+   
     
-    
- ### Chapter 17 HTML5 Layout (pgs.428-451)
+### Chapter 17 HTML5 Layout (pgs.428-451)
     
    The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
     
