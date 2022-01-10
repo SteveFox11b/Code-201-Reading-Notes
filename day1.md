@@ -19,7 +19,6 @@
   
   
 
-
 ### Chapter 8 Extra Mark up  (pgs.176-199)
 
   DOCTYPES tell browsers which type of hyml you are using.
@@ -37,8 +36,7 @@
    Escape characters are used to inlude special characters in our pages such as <,>, and coprright mark.
     
     
-
-### Chapter 17 HTML5 Layout (pgs.428-451)
+ ### Chapter 17 HTML5 Layout (pgs.428-451)
     
    The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
     
