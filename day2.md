@@ -33,28 +33,21 @@
           
   <h2>Decisions and Loops pgs 145-182</h2>
         <li> Conditional statements allow your code to make decisions about what to do next.
-        <li> 
+        <li> Comparison operators (===, !==, !=, <,>,<=, =v.) are used to compare two operands.
+        <li> Logical operators allow you to combine more than one set of comparison operators.
+        <li> if...else statements allow you to run one set of code if a condition is true, and another if it is false.
+        <li> Switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match).
+        <li> Data types can be coerced from one type to another.
+        <li> All values evaluate to either truthy or falsy.
+        <li> There are three types of loop: for, while, and do...while. Each represents a set of statements.
             
             
-            
-        
+             
+ [Extra Reading](https://chris.beams.io/posts/git-commit/)       
         
  </p>
 
-</div>
-
-<header>
-
-<h2> Loops and iteration </h2>
-
-<div>
-<p>
-
-    
-[Extra Reading](https://chris.beams.io/posts/git-commit/)
-
-
-  </div>
+     </div>
 
 </main>
 
