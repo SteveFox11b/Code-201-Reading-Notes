@@ -42,8 +42,7 @@
         <li> There are three types of loop: for, while, and do...while. Each represents a set of statements.
             
             
-             
-[Extra Reading](https://chris.beams.io/posts/git-commit/)       
+             [Extra Reading](https://chris.beams.io/posts/git-commit/)       
         
  </p>
 
