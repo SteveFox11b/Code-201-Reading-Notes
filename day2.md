@@ -3,11 +3,13 @@
 
 <body>
     <header>
-        <h1>HTML Text</h1>
+        <h1>Reading Notes Day 2</h1>
     </header>
+    
+ <h2>HTML Text</h2>
 
-<main>
-
+    <main>
+  
 <div>
     <p>
      HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
