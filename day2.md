@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <body>
@@ -41,7 +41,7 @@
         <li> All values evaluate to either truthy or falsy.
         <li> There are three types of loop: for, while, and do...while. Each represents a set of statements.
             
-            </p>
+</p>
 
 </div>
 
