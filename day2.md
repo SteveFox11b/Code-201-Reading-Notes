@@ -6,25 +6,22 @@
         <h1>Reading Notes Day 2</h1>
     </header>
     
- <h2>HTML Text</h2>
+ <h2>HTML Text pgs 40-61</h2>
 
-    <main>
+ <main>
   
 <div>
     <p>
-     HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
-     They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
-
-<li>Assignment operators
-<li>Comparison operators
-<li>Arithmetic operators
-<li>Bitwise operators
-<li>Logical operators
-<li>String operators
-<li>Conditional (ternary) operator
-<li>Comma operator
-<li>Unary operators
-<li>Relational operators
+    <li> HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
+    <li>They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
+       
+  <h3>Introducing CSS pgs 226-245</h3>
+        <li> CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
+        <li> Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like).
+        <li>
+            
+        
+        
  </p>
 
 </div>
