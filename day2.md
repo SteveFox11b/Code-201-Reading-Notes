@@ -43,7 +43,7 @@
             
             
              
- [Extra Reading](https://chris.beams.io/posts/git-commit/)       
+[Extra Reading](https://chris.beams.io/posts/git-commit/)       
         
  </p>
 
