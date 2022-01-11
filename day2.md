@@ -40,9 +40,8 @@
         <li> Data types can be coerced from one type to another.
         <li> All values evaluate to either truthy or falsy.
         <li> There are three types of loop: for, while, and do...while. Each represents a set of statements.
-            
-            
-             [Extra Reading](https://chris.beams.io/posts/git-commit/)       
+        <li> [Extra Reading](https://chris.beams.io/posts/git-commit/)   
+                 
         
  </p>
 
