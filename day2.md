@@ -37,9 +37,6 @@
             
             
             
-            
-            
-            
         
         
  </p>
@@ -54,9 +51,8 @@
 <p>
 
     
-[Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+[Extra Reading](https://chris.beams.io/posts/git-commit/)
 
-[Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
   </div>
 
