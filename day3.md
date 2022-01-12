@@ -18,7 +18,7 @@
     <li> Lists can be nested inside one another.
 </div>
   
-<div>
+
        
   <h2>Boxes pgs 300-329</h2>
         <li> CSS treats each HTML element as if it has its own box.
