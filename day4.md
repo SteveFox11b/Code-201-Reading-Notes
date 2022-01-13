@@ -21,7 +21,7 @@
 
        
   <h2>Layout pgs 358-404</h2>
-        <li> 
+        <li> div elements are often used as containing elements to group together sections of a page.
         <li> 
         <li> 
         <li> 
