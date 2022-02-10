@@ -22,23 +22,12 @@
        
   <h2>Layout pgs 358-404</h2>
         <li> div elements are often used as containing elements to group together sections of a page.
-        <li> 
-        <li> 
-        <li> 
-        <li> 
-        <li> 
-        <li>
-            
-  <h2>Functios method and objects pgs 53-84</h2>
-        <li> 
-        <li> 
-        <li>
-        <li> 
-        <li> 
-        <li> 
-        <li>
-          
-  [6 Reasons for programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+        <li> browsers display pages in normal flow unless you specify relative absolute or fixed positioning.
+        <li> the float properly moves content to the left or the right, they require a width.
+        <li> designers keep pages within 960-1000 pixels wide and indicate what the site is about in the first 600 px.
+        <li> grips help create flexible and professioal designs.
+        <li> css frameworks provide rules for common tasks.
+        <li> you can include multiple css files in one page
             
       
   </p>
